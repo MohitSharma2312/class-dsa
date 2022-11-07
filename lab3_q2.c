@@ -4,7 +4,6 @@
 // Note: Check the validity of result after operation
 
 #include <stdio.h>
-
 struct time{
     int hour;
     int minute;
